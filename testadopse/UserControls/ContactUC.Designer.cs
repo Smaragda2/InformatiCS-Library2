@@ -364,7 +364,6 @@
             this.KyriakosPhoto.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.KyriakosPhoto.TabIndex = 3;
             this.KyriakosPhoto.TabStop = false;
-            this.KyriakosPhoto.Click += new System.EventHandler(this.KyriakosPhoto_Click);
             // 
             // label2
             // 
